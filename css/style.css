@@ -1801,6 +1801,15 @@ iframe {
   text-align: center;
 }
 
+._webp .second__slider .second__slide {
+  background-size: cover;
+}
+
+.second__slider-container {
+  max-width: 2000px;
+  margin: 0px auto;
+}
+
 @media (min-width: 991.98px) {
   .quantity__button:hover::before,
   .quantity__button:hover::after {
