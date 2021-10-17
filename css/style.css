@@ -1297,23 +1297,11 @@ iframe {
 ._no-webp .large__slide-1{
   background: #fff url(../img/image/slider2.png); }
 
-.large__slide-1 {
-  background-size: cover;
-}
-
 ._no-webp .large__slide-2{
   background: #fff url(../img/image/slider3.png); }
 
-.large__slide-2 {
-  background-size: cover;
-}
-
 ._no-webp .large__slide-3{
   background: #fff url(../img/image/slider4.png); }
-
-.large__slide-3 {
-  background-size: cover;
-}
 
 .reviews__post {
   margin-bottom: 50px;
