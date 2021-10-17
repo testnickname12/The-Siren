@@ -1248,7 +1248,8 @@ iframe {
 }
 
 .large__slider-first {
-  max-width: 100%;
+  max-width: 2000px;
+  margin: 0px auto;
 }
 
 .large__slide {
